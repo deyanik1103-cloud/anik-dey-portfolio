@@ -1,0 +1,2 @@
+Add your portrait photo to this folder and name it profile.jpg.
+The portfolio will automatically display assets/profile.jpg in the About section.
